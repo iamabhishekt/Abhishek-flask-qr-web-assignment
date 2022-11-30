@@ -1,6 +1,12 @@
 # Submission (Abhishek Thakur):
 
-# [Document for running code in docx](Document_Submission\WSD_assignment_flask_qr_code)
+## [Document for running code in docx](Document_Submission/WSD_assignment_flask_qr_code.docx)
+
+## Images of submission
+1. [localhost/](Document_Submission/img.png)
+2. [QR Code is generated](Document_Submission/img_1.png)
+3. [Server Start - localhost/](Document_Submission/img_2.png)
+4. [Ubuntu curl command](Document_Submission/img_3.png)
 
 
 # Docker and Flask
