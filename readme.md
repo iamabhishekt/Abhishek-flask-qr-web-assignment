@@ -1,6 +1,6 @@
 # Submission (Abhishek Thakur):
 
-# [Document for running code](Document Submission\WSD assignment flask qr code.docx)
+# [Document for running code](Document_Submission\WSD_assignment_flask_qr_code.docx)
 
 
 # Docker and Flask
