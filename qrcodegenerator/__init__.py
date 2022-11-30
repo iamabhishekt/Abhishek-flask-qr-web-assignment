@@ -1,5 +1,6 @@
 import qrcode
 
+
 def create_qr_code_image(data: str):
     """Generate QR Code"""
 

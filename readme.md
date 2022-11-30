@@ -1,6 +1,6 @@
 # Submission (Abhishek Thakur):
 
-Create a text document and put a screenshot of your form and a screenshot of the QR code that the form generates and upload to canvas
+# [Document for running code](D:\.Pycharm WSD\PycharmProjects\flask-qr-web\Document Submission\WSD assignment flask qr code.docx)
 
 
 # Docker and Flask
